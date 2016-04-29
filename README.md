@@ -12,5 +12,6 @@ SatisMeter graphic resources for public use.
 
 * [Dashboard](satismeter-dashboard-screenshot.png)
 * [Widget](satismeter-widget-screenshot.png)
+* [Widget on mobile and computer](satismeter-widget-mobile-and-computer.png)
 
 [Download all assets](https://github.com/satismeter/assets/archive/master.zip)
