@@ -11,6 +11,7 @@ SatisMeter graphic resources for public use.
 ## Screenshots
 
 * [Dashboard](satismeter-dashboard-screenshot.png)
+* [Dashboard on iMac](satismeter-dashboard-imac.png)
 * [Widget](satismeter-widget-screenshot.png)
 * [Widget on mobile and computer](satismeter-widget-mobile-and-computer.png)
 
